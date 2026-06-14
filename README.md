@@ -1,5 +1,8 @@
 # time-is
 
+<img width="1297" height="706" alt="image" src="https://github.com/user-attachments/assets/974aadd7-9fee-4eb6-8612-143761b7fc37" />
+
+
 Chrome Extension (Manifest V3) hiển thị một **đồng hồ nổi `HH:MM:ss`** trên mọi trang web.
 Kéo thả được, mặc định nằm góc phải trên, bật/tắt bằng cách click icon extension.
 
